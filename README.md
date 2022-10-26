@@ -1,1 +1,2 @@
-# 5-Days-Live-EDA-and-Feature-Engineering
+# Exploratory-Data-Analysis-
+Data Analysis of various data set of Zomato, Black Friday comprising feature engineering and interpretation uof various categories using plotting. 
